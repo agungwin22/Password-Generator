@@ -1,4 +1,4 @@
-Password Generator
+## Password Generator
 
 Program ini adalah sebuah **Generator Password Acak** yang dibuat dengan Python, memungkinkan pengguna untuk membuat password dengan kombinasi karakter sesuai pilihan mereka.
 
